@@ -1,2 +1,9 @@
+.table {
+    justify-content: space-between;
+    padding: 10px;
+}
 
-/* Your CSS Code here. */
+.th {
+    justify-content: space-between;
+    padding: 10px;
+}
